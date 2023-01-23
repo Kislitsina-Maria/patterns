@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x431ydeexfbxrkvc?svg=true)](https://ci.appveyor.com/project/Kislitsina-Maria/patterns)
